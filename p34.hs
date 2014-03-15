@@ -1,5 +1,5 @@
 import Data.List
-main = putStrLn . show $ totient 10
+main = putStrLn . show $ totient 1009000
 
 myGCD :: Int -> Int -> Int
 myGCD x y
